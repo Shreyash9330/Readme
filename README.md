@@ -1,6 +1,6 @@
-<h1 align="center">👋 Hi, I'm Ganesh</h1>
+<h1 align="center">👋 Hi, I'm Shreyash</h1>
 
-<h3 align="center">💻 Software Developer | 🎓 CSE Graduate (CGPA 8.2)</h3>
+<h3 align="center">💻 Software Developer | 🎓 CSE Graduate (CGPA 7.1)</h3>
 <p align="center">Passionate about Backend & Full-Stack Development | Learning by Building 🚀</p>
 
 ---
@@ -28,7 +28,7 @@
 | Project | Tech Used | Repo |
 |--------|-----------|------|
 | 🔹 To-Do List Web App | HTML, CSS, JS | https://ganesh-badar.github.io/todolist/
-| 🔹 Amazon Clone UI | HTML, CSS | https://github.com/ganesh-badar/Amazon-clone
+| 🔹 Amazon Clone UI | HTML, CSS | https://github.com/ganesh-b/Amazon-clone
 
 
 > Add more later whenever you want.
