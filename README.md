@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Shreyash</h1>
+<!-- <h1 align="center">👋 Hi, I'm Shreyash</h1>
 
 <h3 align="center">💻 Software Developer | 🎓 CSE Graduate (CGPA 7.1)</h3>
 <p align="center">Passionate about Backend & Full-Stack Development | Learning by Building 🚀</p>
@@ -68,4 +68,74 @@
 <img src="https://komarev.com/ghpvc/?username=ganesh-badar&label=Profile%20Views&color=1f6feb&style=flat" alt="Profile views" />
 
 ---
-💙 Thanks for visiting my profile!
+💙 Thanks for visiting my profile! -->
+
+
+
+# 👋 Hi, I'm Shreyash Gawande
+
+🎓 **Computer Science Graduate (2025)**  
+💻 **Frontend Web Developer** | Passionate about clean UI, performance & user experience  
+🌍 Based in **Amravati, India**
+
+---
+
+### 🧠 About Me  
+- 👨‍💻 Currently building **beautiful web applications**
+- ⚡ Exploring **JavaScript, React & UI Design**
+- 📝 Love to learn by building real-world projects
+- 🌱 Improving **problem-solving, clean code & architecture**
+- 🧩 Interest: UI/UX, Web Animations, ML Basics
+
+---
+
+### 🔧 Tech Stack
+**Frontend:** HTML • CSS • JavaScript • React  
+**Tools & Platforms:** Git • GitHub • VS Code • Figma  
+**Others:** Basics of Python • Machine Learning (Beginner)
+
+---
+
+### 🚀 Featured Projects
+
+🔸 **Air Canvas – AI Powered Drawing Tool**  
+✏️ Hand movement based drawing + gestures (ongoing enhancements)  
+🔗 Repo: *(Coming Soon / Updating)*
+
+🔸 **Weather App – Real-time UI Based Weather**  
+🌤️ Displays live weather + attractive visuals  
+🔗 Repo: *(Public on GitHub)*
+
+🔸 **Personal Portfolio Website**  
+🖥️ Portfolio to showcase my skills & projects  
+🔗 [View Repository](https://github.com/Shreyash9330/Personal-Portfolio-Website-.git)
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Shreyash9330&show_icons=true&theme=tokyonight" height="150" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shreyash9330&theme=tokyonight" height="150" />
+
+</div>
+
+---
+
+### 📫 Connect With Me
+- 🔗 LinkedIn: https://www.linkedin.com/in/shreyash-gawande9330  
+- 📧 Email: **shreyashmgawande@gmail.com**
+
+---
+
+### 🛠️ Current Goal
+📌 Building production-level frontend projects & improving UI quality.  
+🔥 Preparing for **Frontend Developer Internships & Job Profiles.**
+
+---
+
+### ❤️ Thanks for Visiting!
+⭐ Feel free to explore my repositories & connect with me!
+
