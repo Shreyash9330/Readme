@@ -1,92 +1,118 @@
+# 👋 Hi, I'm Shreyash Gawande
 
- <h1 align="center">👋 Hi, I'm Shreyash Gawande</h1>
-<p align="center">
-  <b>🚀 Aspiring Web Developer | Frontend Enthusiast</b><br>
-  Skilled in building responsive and visually appealing user interfaces using HTML, CSS, Bootstrap & JavaScript.
-</p>
+🚀 Aspiring Full Stack Java Developer  
+🎓 Computer Science & Engineering Graduate  
+💻 Frontend + Java Backend Learner  
 
----
-
-### 💼 Software Developer Intern
-- 💻 **Bluestock Fintech** | Software Development Intern  
-- 🌐 **Prodigy InfoTech** | Web Development Intern  
-> Gained hands-on experience developing responsive web apps, landing pages, fintech UI components, and working in an agile remote setup. ✔  
- *(Based on resume)* :contentReference[oaicite:1]{index=1}
+I build **clean, responsive web interfaces** and I am currently
+strengthening my **Java backend & framework knowledge** to become
+a well-rounded full stack developer.
 
 ---
 
-### 🧠 About Me
-🌟 Passionate about UI/UX & Frontend Development  
-👉 Love converting real-world ideas into interactive web applications  
-🔧 Currently enhancing my **JavaScript, UI Design & Web Animations**  
-🎯 Goal: Become a skilled **Frontend Developer (React + UI Engineering)**
+## 🧠 About Me
+
+- Passionate about **UI/UX & Frontend Development**
+- Strong foundation in **HTML, CSS, JavaScript & React**
+- Currently learning **Java Full Stack**:
+  - Core Java
+  - JDBC, Servlet, JSP
+  - Hibernate
+  - Spring Framework & Spring Boot
+- Believe in **structured learning, documentation & clean architecture**
 
 ---
 
-### 🛠 Tech Stack
-| Frontend | Tools | Other |
-|----------|-------|-------|
-| HTML | Git & GitHub | Bootstrap |
-| CSS | VS Code | JavaScript (Learning) |
+## 🛠 Tech Stack
 
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML-blueviolet?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS-darkblue?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bootstrap-pink?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black"/>
-</p>
+### 🎨 Frontend
+- HTML, CSS, JavaScript
+- React
+- Bootstrap
+- Responsive Web Design
 
----
+### ⚙ Backend
+- Java
+- JDBC
+- Servlet & JSP
+- Hibernate
+- Spring Framework / Spring Boot (Learning)
 
-### 📌 Projects (From Resume)
-| Project | Tech Used | Description |
-|--------|------------|-------------|
-| **Amazon Clone UI** | HTML, CSS, Bootstrap, JS | Designed a replica of Amazon UI with product sections & responsive layout |
-| **Portfolio Website** | HTML, CSS | Personal portfolio showcasing skills & projects |
-| **Landing Page** | HTML, CSS | A responsive landing page with clean UI |
- *(Verified from resume)* :contentReference[oaicite:2]{index=2}
+### 🗄 Database
+- MySQL
 
-🔗 Git Repositories:  
-📌 Amazon Clone: *(upload to GitHub to add link)*  
-📌 Portfolio Website Repo: https://github.com/Shreyash9330/Personal-Portfolio-Website-.git  
+### 🧰 Tools & Concepts
+- Git & GitHub
+- Eclipse, VS Code
+- OOP, DBMS
+- MVC Architecture
+- REST APIs
 
 ---
 
-### 📊 GitHub Analytics
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shreyash9330&show_icons=true&theme=radical" height="150">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shreyash9330&theme=radical" height="150">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreyash9330&layout=compact&theme=radical" height="150">
-</div>
+## 💼 Experience
+
+### 💻 Software Development Intern  
+**Bluestock Fintech, Pune**  
+*Apr 2025 – May 2025*
+- Developed responsive UI components
+- Integrated APIs for dynamic data rendering
+- Improved dashboard usability
+- Worked in Agile environment using Git
+
+### 🌐 Web Development Intern  
+**Prodigy Infotech, Pune**  
+*Feb 2025 – Mar 2025*
+- Built mobile-friendly responsive layouts
+- Added JavaScript interactivity
+- Fixed UI issues & improved performance
+- Participated in code reviews
 
 ---
 
-### 🔗 Connect With Me
-<p align="left">
-  <a href="https://www.linkedin.com/in/shreyash-gawande9330">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:shreyashmgawande@gmail.com">
-    <img src="https://img.shields.io/badge/Email-purple?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Shreyash9330">
-    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+## 🚀 Projects
+
+### 🎨 Air Canvas – Virtual Drawing Application  
+**Python, OpenCV**
+- Real-time hand gesture drawing without mouse or touch
+- Color picker, brush size & eraser features
+- Accurate fingertip detection  
+
+🔗 GitHub: https://github.com/Shreyash9330/air-canvas-project
 
 ---
 
-### ✨ Quote of the Day
-> 💡 *"Consistency + Hard Work = Success"*
+### ⏱ Stopwatch Web Application  
+**HTML, CSS, JavaScript**
+- Start / Stop / Reset functionality
+- DOM-based accurate time tracking
+- Fully responsive design  
 
 ---
 
-### 👀 Profile Visitors
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Shreyash9330&label=Profile%20Views&color=blueviolet&style=flat">
-</p>
+## 📂 Featured Repositories
+
+🔹 **Java Framework Learning Repository**  
+- Hibernate (Completed)
+- Spring Core (In Progress)
+- Spring + Hibernate Integration  
+➡ Clean structure, modular documentation & interview-ready notes
 
 ---
 
-<h3 align="center">⭐ Thanks for visiting my profile! ⭐</h3>
+## 🎯 Current Focus
+- Spring Framework & Spring Boot
+- Java Backend Architecture
+- Full Stack Development
+- Interview Preparation
 
+---
+
+## 📫 Connect With Me
+- 📧 Email: shreyashmgawande@gmail.com
+- 💼 LinkedIn: (add your LinkedIn URL)
+- 🌐 GitHub: https://github.com/Shreyash9330
+
+---
+
+⭐ *Always learning. Always improving. Building step by step.*
