@@ -9,7 +9,6 @@ strengthening my **Java backend & framework knowledge** to become
 a well-rounded full stack developer.
 
 ---
-
 ## 🧠 About Me
 
 - Passionate about **UI/UX & Frontend Development**
