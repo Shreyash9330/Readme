@@ -97,7 +97,7 @@ a well-rounded full stack developer.
 
 ## 📫 Connect With Me
 - 📧 Email: shreyashmgawande@gmail.com
-- 💼 LinkedIn: (add your LinkedIn URL)
+- 💼 LinkedIn : www.linkedin.com/in/shreyash-gawande9330
 - 🌐 GitHub: https://github.com/Shreyash9330
 
 ---
