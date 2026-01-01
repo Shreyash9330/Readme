@@ -50,7 +50,9 @@ I love building **clean, responsive web interfaces** and I am currently strength
     <img src="https://img.shields.io/badge/Servlet-blue?style=flat-square"/>
     <img src="https://img.shields.io/badge/JSP-orange?style=flat-square"/>
     <img src="https://img.shields.io/badge/Hibernate-brown?style=flat-square"/> 
-    <img src="https://img.shields.io/badge/Spring-green?style=flat-square"/> </div> 
+    <img src="https://img.shields.io/badge/Spring-green?style=flat-square"/>
+   <img src="https://img.shields.io/badge/Spring_Boot-green?style=flat-square"/
+  </div> 
     <!-- Database --> 
     <div style="border:1px solid #f85149; border-radius:10px; padding:12px; width:260px;"> 
       <h4>🗄 Database</h4>
