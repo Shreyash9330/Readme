@@ -78,18 +78,6 @@ _Feb 2025 – Mar 2025_
 
 ## 🚀 Projects
 
-### 🍽️ QR-DineFlow — Restaurant Ordering & Management System
-
-**Tech:** Java, Spring Boot, React, MySQL, JWT, Spring Security, WebSocket
-
-- Developed a full-stack restaurant ordering platform using Spring Boot and React.
-- Implemented JWT-based authentication and role-based access for Admin, Employer and User.
-- Added QR-based table ordering and real-time order status updates.
-- Implemented menu, order, table and user management features.
-- Built REST APIs and connected them with the React frontend.
-
-🔗 [View Repository](YOUR_LINK)
-
 ### 💳 PayLedger — Digital Wallet & Ledger System
 
 **Tech:** Java, Spring Boot, PostgreSQL, REST API
@@ -112,7 +100,7 @@ _Feb 2025 – Mar 2025_
 - Designed dynamic web pages using JSP, HTML and CSS.
 - Deployed the application on Apache Tomcat.
 
-🔗 [View Repository](YOUR_LINK)
+🔗 [View Repository](https://github.com/Shreyash9330/employee-management-system.git)
 
 ---
 
