@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/000000000?v=4" width="120">
-</p>
-
 <h1 align="center">Hi 👋, I'm Shreyash Gawande</h1>
 
 <h3 align="center">
@@ -11,17 +7,6 @@ Java Full Stack Developer | Java | Spring Boot | React | MySQL
 <p align="center">
 Building practical web applications with Java, Spring Boot, React and MySQL.
 </p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Frontend-UI%2FUX-blue">
-  <img src="https://img.shields.io/badge/Java-Backend-orange">
-  <img src="https://img.shields.io/badge/SpringBoot-Learning-brightgreen">
-  <img src="https://img.shields.io/badge/OpenSource-GitHub-black">
-</p>
-
-I love building **clean, responsive web interfaces** and I am currently strengthening my  
-**Java backend & framework knowledge** to become a complete full stack developer.
-
 ---
 
 ## 👨‍💻 About Me
