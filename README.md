@@ -36,41 +36,39 @@ I love building **clean, responsive web interfaces** and I am currently strength
 - 📍 Based in Pune, India
 ---
 
-## 🛠 Tech Stack
+## 🛠️ Tech Stack
 
-<div style="display:flex; flex-wrap:wrap; gap:12px;">
-  <!-- Frontend -->
-  <div style="border:1px solid #58a6ff; border-radius:10px; padding:12px; width:260px;"> 
-    <h4>🎨 Frontend</h4>
-    <img src="https://img.shields.io/badge/HTML5-orange?style=flat-square&logo=html5&logoColor=white"/> 
-    <img src="https://img.shields.io/badge/CSS3-blue?style=flat-square&logo=css3&logoColor=white"/> 
-    <img src="https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=javascript&logoColor=black"/> 
-    <img src="https://img.shields.io/badge/React-blue?style=flat-square&logo=react"/>
-    <img src="https://img.shields.io/badge/Bootstrap-purple?style=flat-square&logo=bootstrap"/> 
-  
-  </div> <!-- Backend --> 
-  <div style="border:1px solid #3fb950; border-radius:10px; padding:12px; width:260px;"> 
-    <h4>⚙ Backend</h4>
-    <img src="https://img.shields.io/badge/Java-red?style=flat-square&logo=java"/>
-    <img src="https://img.shields.io/badge/JDBC-darkgreen?style=flat-square"/>
-    <img src="https://img.shields.io/badge/Servlet-blue?style=flat-square"/>
-    <img src="https://img.shields.io/badge/JSP-orange?style=flat-square"/>
-    <img src="https://img.shields.io/badge/Hibernate-brown?style=flat-square"/> 
-    <img src="https://img.shields.io/badge/Spring-green?style=flat-square"/>
-   <img src="https://img.shields.io/badge/Spring_Boot-grey?style=flat-square"/
-  </div> 
-    <!-- Database --> 
-    <div style="border:1px solid #f85149; border-radius:10px; padding:12px; width:260px;"> 
-      <h4>🗄 Database</h4>
-      <img src="https://img.shields.io/badge/MySQL-blue?style=flat-square&logo=mysql&logoColor=white"/>
-    </div>
-      <!-- Tools --> <div style="border:1px solid #d29922; border-radius:10px; padding:12px; width:260px;"> 
-        <h4>🧰 Tools</h4> 
-        <img src="https://img.shields.io/badge/Git-orange?style=flat-square&logo=git&logoColor=white"/> 
-        <img src="https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github"/> 
-        <img src="https://img.shields.io/badge/Eclipse-purple?style=flat-square"/>
-        <img src="https://img.shields.io/badge/VS%20Code-blue?style=flat-square&logo=visualstudiocode"/>
-      </div> </div>
+### Backend
+- Java
+- Spring Boot
+- Spring Framework
+- Hibernate
+- JDBC
+- Servlets
+- JSP
+- REST APIs
+- JWT
+- Spring Security
+
+### Frontend
+- HTML5
+- CSS3
+- JavaScript
+- React
+- Bootstrap
+- Tailwind CSS
+
+### Database
+- MySQL
+
+### Tools
+- Git
+- GitHub
+- Maven
+- Postman
+- Eclipse / STS
+- VS Code
+- Docker
 
 
 ---
@@ -95,18 +93,41 @@ _Feb 2025 – Mar 2025_
 
 ## 🚀 Projects
 
-**🎨 Air Canvas – Virtual Drawing Application**  
-_Python, OpenCV_  
-- Draw using hand gestures without mouse or touch  
-- Color picker, brush size & eraser  
-- Accurate fingertip detection  
-🔗 https://github.com/Shreyash9330/air-canvas-project
+### 🍽️ QR-DineFlow — Restaurant Ordering & Management System
 
-**⏱ Stopwatch Web Application**  
-_HTML, CSS, JavaScript_  
-- Start / Stop / Reset features  
-- Fully responsive design  
-- DOM based time tracking  
+**Tech:** Java, Spring Boot, React, MySQL, JWT, Spring Security, WebSocket
+
+- Developed a full-stack restaurant ordering platform using Spring Boot and React.
+- Implemented JWT-based authentication and role-based access for Admin, Employer and User.
+- Added QR-based table ordering and real-time order status updates.
+- Implemented menu, order, table and user management features.
+- Built REST APIs and connected them with the React frontend.
+
+🔗 [View Repository](YOUR_LINK)
+
+### 💳 PayLedger — Digital Wallet & Ledger System
+
+**Tech:** Java, Spring Boot, PostgreSQL, REST API
+
+- Developed a backend system for digital wallet and transaction management.
+- Implemented wallet operations and transaction ledger functionality.
+- Designed REST APIs using Spring Boot.
+- Integrated PostgreSQL for persistent data storage.
+- Followed layered architecture using Controller, Service and Repository layers.
+
+🔗 [View Repository](YOUR_LINK)
+
+### 👨‍💼 Employee Management System
+
+**Tech:** Java, Servlets, JSP, JDBC, MySQL, Apache Tomcat
+
+- Developed a web-based employee management application using Java Servlets and JSP.
+- Implemented CRUD operations for employee records.
+- Used JDBC for database connectivity and MySQL for data persistence.
+- Designed dynamic web pages using JSP, HTML and CSS.
+- Deployed the application on Apache Tomcat.
+
+🔗 [View Repository](YOUR_LINK)
 
 ---
 
