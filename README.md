@@ -2,8 +2,15 @@
   <img src="https://avatars.githubusercontent.com/u/000000000?v=4" width="120">
 </p>
 
-<h1 align="center">👋 Hi, I'm Shreyash Gawande</h1>
-<p align="center">Aspiring Java Full Stack Developer | Frontend Lover | Backend Explorer</p>
+<h1 align="center">Hi 👋, I'm Shreyash Gawande</h1>
+
+<h3 align="center">
+Java Full Stack Developer | Java | Spring Boot | React | MySQL
+</h3>
+
+<p align="center">
+Building practical web applications with Java, Spring Boot, React and MySQL.
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Frontend-UI%2FUX-blue">
@@ -17,17 +24,16 @@ I love building **clean, responsive web interfaces** and I am currently strength
 
 ---
 
-## 🧠 About Me
+## 👨‍💻 About Me
 
-- Passionate about UI/UX & frontend development  
-- Strong foundation in HTML, CSS, JavaScript & React  
-- Learning Java Full Stack:
-  - Core Java
-  - JDBC, Servlet, JSP
-  - Hibernate
-  - Spring Framework & Spring Boot  
-- Believe in structured learning, documentation & clean architecture  
-
+- 🎓 Computer Science & Engineering graduate
+- 💻 Focused on Java Full Stack Development
+- ☕ Working with Java, JDBC, Servlets, JSP, Hibernate and Spring Boot
+- ⚛️ Building frontend applications using React, JavaScript, HTML and CSS
+- 🗄️ Working with MySQL and REST APIs
+- 🔐 Experience with authentication, JWT and role-based access control
+- 🚀 Interested in building scalable and real-world web applications
+- 📍 Based in Pune, India
 ---
 
 ## 🛠 Tech Stack
