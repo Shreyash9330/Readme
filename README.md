@@ -7,7 +7,7 @@ Java Full Stack Developer | Java | Spring Boot | React | MySQL
 <p align="center">
 Building practical web applications with Java, Spring Boot, React and MySQL.
 </p>
----
+
 
 ## 👨‍💻 About Me
 
