@@ -78,6 +78,22 @@ _Feb 2025 – Mar 2025_
 
 ## 🚀 Projects
 
+### 💼 Job Portal — Full Stack Job Management Platform
+
+**Tech:** Java, Spring Boot, React, MySQL, JWT, Spring Security, Hibernate, REST APIs
+
+- Developed a full-stack job portal using Spring Boot and React.
+- Implemented role-based authentication for Admin, Employer and Job Seeker.
+- Secured APIs using JWT authentication, BCrypt password encryption and Spring Security.
+- Implemented job creation, editing, deletion and job listing functionality for employers.
+- Added job application functionality with resume upload and application tracking.
+- Implemented employer dashboard to manage jobs and view applications.
+- Built REST APIs using Controller, Service and Repository layered architecture.
+- Integrated React frontend with Spring Boot backend and MySQL database.
+
+🔗 [View Repository](https://github.com/Shreyash9330/JobPortal.git)
+
+
 ### 💳 PayLedger — Digital Wallet & Ledger System
 
 **Tech:** Java, Spring Boot, PostgreSQL, REST API
@@ -88,7 +104,7 @@ _Feb 2025 – Mar 2025_
 - Integrated PostgreSQL for persistent data storage.
 - Followed layered architecture using Controller, Service and Repository layers.
 
-🔗 [View Repository](YOUR_LINK)
+🔗 [View Repository](https://github.com/Shreyash9330/payledger.git)
 
 ### 👨‍💼 Employee Management System
 
