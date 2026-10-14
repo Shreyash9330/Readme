@@ -80,17 +80,12 @@ _Feb 2025 – Mar 2025_
 
 ### 💼 Job Portal — Full Stack Job Management Platform
 
-**Tech:** Java, Spring Boot, React, MySQL, JWT, Spring Security, Hibernate, REST APIs
+**Tech:** Java 17, Spring Boot, Spring Security, JWT, Spring Data JPA, MySQL, React.js, Docker, GitHub Actions
 
-- Developed a full-stack job portal using Spring Boot and React.
-- Implemented role-based authentication for Admin, Employer and Job Seeker.
-- Secured APIs using JWT authentication, BCrypt password encryption and Spring Security.
-- Implemented job creation, editing, deletion and job listing functionality for employers.
-- Added job application functionality with resume upload and application tracking.
-- Implemented employer dashboard to manage jobs and view applications.
-- Built REST APIs using Controller, Service and Repository layered architecture.
-- Integrated React frontend with Spring Boot backend and MySQL database.
-
+- Built a role-based platform (Job Seeker, Employer, Admin) with job posting, search and filters, resume-based applications and status tracking, using Spring Boot REST APIs and React.js.
+- Secured APIs with stateless JWT, BCrypt and role-based access control, plus ownership checks so users can access only their own data. Covered the 401/403 rules with automated tests.
+- Implemented PDF resume upload with validation (file signature, size limit) stored in MySQL, and an OTP password reset flow sent by email via the Brevo API.
+- Wrote 40+ JUnit and Mockito tests, documented APIs with Swagger/OpenAPI, set up CI with GitHub Actions, and deployed on Vercel, Render and Aiven MySQL.
 🔗 [View Repository](https://github.com/Shreyash9330/JobPortal.git)
 
 
