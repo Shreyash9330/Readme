@@ -86,7 +86,7 @@ _Feb 2025 – Mar 2025_
 - Secured APIs with stateless JWT, BCrypt and role-based access control, plus ownership checks so users can access only their own data. Covered the 401/403 rules with automated tests.
 - Implemented PDF resume upload with validation (file signature, size limit) stored in MySQL, and an OTP password reset flow sent by email via the Brevo API.
 - Wrote 40+ JUnit and Mockito tests, documented APIs with Swagger/OpenAPI, set up CI with GitHub Actions, and deployed on Vercel, Render and Aiven MySQL.
-- 
+  
 🔗 [View Repository](https://github.com/Shreyash9330/JobPortal.git)
 
 
